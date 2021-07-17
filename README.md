@@ -5,7 +5,7 @@
 We all know there is always some pictures we have in our home which has some strokes, some black spot, any other distrubation on it. The restoring the complete clean image means wihout any spot is called image inpainting. The technique behind of image inpainting is we can't simply repalce the black spot to white spot so replace thoes black spot/bad marks with its neighbourhood pixel so its looks like neighbourhood and image become clean.
 
 For run this project open the command prompt and go to the location where this project located and Run the command "python project1.py".
-You will see the net tab open look like below image.
+You will see the new tab open look like below image.
 ![image](https://user-images.githubusercontent.com/44130329/126040546-b3a2d34e-cadc-4ac0-a80e-44eb5c7ce557.png)
 
 Select the image and mask image and click on inpaint then you will see the output as a image without bad spot.
